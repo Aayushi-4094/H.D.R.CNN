@@ -28,7 +28,7 @@ pip install numpy tensorflow matplotlib
 
 1. Clone this repository:
    ```shell
-   git clone https://github.com/yourusername/mnist-image-classification.git
+   git clone https://github.com/Aayushi-4094/H.D.R.CNN
    cd mnist-image-classification
    ```
 
@@ -44,7 +44,7 @@ pip install numpy tensorflow matplotlib
 
 The project structure is organized as follows:
 - `README.md`: Project documentation.
-- `mnist_cnn.ipynb`: Jupyter Notebook containing the code.
+- `Handwritten Digit.ipynb`: Jupyter Notebook containing the code.
   
 
 ## License
